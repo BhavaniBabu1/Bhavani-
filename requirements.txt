@@ -1,6 +1,0 @@
-numpy
-pandas
-matplotlib==3.7.1
-scikit-learn
-tensorflow
-streamlit
